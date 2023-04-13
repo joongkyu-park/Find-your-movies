@@ -1,0 +1,7 @@
+excluded:
+    - Pods
+    - Find-your-movies/AppDelegate.swift
+    - Find-your-movies/SceneDelegate.swift
+    - Libraries
+disabled_rules:
+    - line_length
