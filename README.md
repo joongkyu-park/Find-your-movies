@@ -1,5 +1,7 @@
 # 영화 검색 앱 토이 프로젝트
-- [OMDb(Open Movie Database) API](https://www.omdbapi.com/)를 이용한 앱입니다.
+- [OMDb(Open Movie Database) API](https://www.omdbapi.com/)를 이용한 앱입니다.  
+영화를 검색하고 즐겨찾기를 추가하여 관리할 수 있습니다.  
+즐겨찾기의 영화들은 드래그&드롭으로 순서를 조정할 수 있습니다.
 - 프로젝트 기간 : 22.12.13 ~ 22.12.19
 - *커밋 이력은 Private 저장소에 따로 기록되어 있습니다.* 
 
